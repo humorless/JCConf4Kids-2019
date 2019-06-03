@@ -1,16 +1,5 @@
 George (http://www.george.andante.no/) workshop for Japan Java User Group (http://www.java-users.jp/).
 
-Workshop agenda
-
-- Learn mathematics (addition, multiplication, substraction and division).
-- Basic geometry shapes (triangle, square, circle).
-- Learn variables.
-- Learn functions.
-- Learn to apply colors to shapes.
-- Star shape
-- Snowflake
-
-
 /// Japanese /// 
 
 日本JavaユーザーグループのためのGeorgeワークショップ
@@ -24,3 +13,16 @@ Workshop agenda
 - 図形に色をつける
 - 星形（ほしがた）の図形
 - 雪の結晶（ゆきのけっしょう）の図形
+
+Workshop agenda
+
+- Learn mathematics (addition, multiplication, substraction and division).
+- Basic geometry shapes (triangle, square, circle).
+- Learn variables.
+- Learn functions.
+- Learn to apply colors to shapes.
+- Star shape
+- Snowflake
+
+
+
