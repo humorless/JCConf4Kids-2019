@@ -7,7 +7,7 @@ Humans needs to learn calculations. There are patterns:
 
 Computers are good for large calculations for example several millions numbers or reptitive
 caculations, for example calculate 5 + 5 a thousand times
-コンピューターは複雑（ふくざつ）な計算（けいさん）が得意（とくい）です。たとえば、数百万（すうひゃくまん）たんいの計算や、なんどもくり返す計算、５＋５を千回くり返すこともできます。
+コンピューターは難しい（むずかしい）計算（けいさん）が得意（とくい）です。たとえば、数百万（すうひゃくまん）たんいの計算や、なんどもくり返す計算、５＋５を千回くり返すこともできます。
 
 Basic calculations 計算（けいさん） のきほん
 ")
