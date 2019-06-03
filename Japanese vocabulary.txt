@@ -21,23 +21,23 @@ Turtle = 亀 カメ (kame)
 
 Triangle = 三角形, (Sankakkei)
 
-Square = 平方, (shikakukei)
+Square = 四角形, (shikakukei)
 
-Circle = サークル, (enn)
+Circle = 円, サークル, (enn)
 
 Parenthesis = 括弧, (kakko)
 
-Square brackets = 角括弧, (kagi Kakko)
+Square brackets [] = 大かっこ, (dai Kakko)
 
-Addition = 添加, (tashizan)
+Addition = 足し算, (tashizan)
 
-Multiplication = 乗算, (kakezan)
+Multiplication = 掛け算, (kakezan)
 
-Substraction = 減法, (Hikizan)
+Substraction = 引き算, (Hikizan)
 
-Division = 分割, (Warizan)
+Division = 割り算, (Warizan)
 
-Modulo = 余り物, (amari)
+Modulo = 余り, (amari)
 
 Repetition = 繰り返し, (Kurikaeshi)
 
