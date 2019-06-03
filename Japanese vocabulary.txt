@@ -1,0 +1,62 @@
+
+step = steppu ()
+
+angle = 角度, アングル (Kakudo)
+
+sasetdu = turn left
+
+hidari ni magaru
+
+left = 左, レフト (Hidari)
+
+right = 右, レフト (Migi)
+
+forward = 進む, mai susumu
+
+backward = ushiro ni modoru
+
+File = ファイル (fairu)
+
+Turtle = 亀 カメ (kame) 
+
+Triangle = 三角形, (Sankakkei)
+
+Square = 平方, (shikakukei)
+
+Circle = サークル, (enn)
+
+Parenthesis = 括弧, (kakko)
+
+Square brackets = 角括弧, (kagi Kakko)
+
+Addition = 添加, (tashizan)
+
+Multiplication = 乗算, (kakezan)
+
+Substraction = 減法, (Hikizan)
+
+Division = 分割, (Warizan)
+
+Modulo = 余り物, (amari)
+
+Repetition = 繰り返し, (Kurikaeshi)
+
+------- Programming concepts -------
+
+variables hensu
+
+function kansu
+
+parameters 
+
+invokation of function yobidashi
+
+Compile 
+
+compile error 
+
+runtime 
+
+Runtime error
+
+(samples/flower)
