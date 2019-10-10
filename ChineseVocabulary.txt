@@ -1,0 +1,63 @@
+reset = 清除
+
+angle = 角度
+
+left = 左
+
+right = 右
+
+forward = 向前
+
+backward = 向後
+
+File = 檔案
+
+Turtle = 烏龜
+
+Triangle = 三角形
+
+Square = 正方形
+
+Circle = 圓形
+
+Parenthesis = 括弧
+
+Square brackets [] = 方括弧
+
+Addition = 加法
+
+Multiplication = 乘法
+
+Substraction = 減法
+
+Division = 除法
+
+Modulo = 模除/取模操作
+
+Repetition = 重複
+
+---------------- Certain function names ----
+
+set-fill = 設定填充顏色
+
+filled = 填入
+
+defn = 定義函數
+
+------- Programming concepts -------
+
+symbol 符號/標示子
+
+function 函數 (用來包住某一區塊的程式碼，使該區塊自成一塊新的邏輯結構)
+
+parameters 參數 (位於函數的方括弧裡的變數，通常用於從「函數的外界」夾帶資訊進入「函數內部」)
+
+invocation of function 啟動函數
+
+Compile 編譯
+
+compile error 編譯期錯誤
+
+runtime 執行
+
+Runtime error 執行期錯誤

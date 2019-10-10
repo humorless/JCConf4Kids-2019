@@ -1,28 +1,23 @@
-George (http://www.george.andante.no/) workshop for Japan Java User Group (http://www.java-users.jp/).
+[George](http://www.george.andante.no/) workshop for [JCConf4Kids](https://twjug.kktix.cc/events/jcconf4kids-2019)
 
-/// Japanese /// 
+# 課程內容
 
-日本JavaユーザーグループのためのGeorgeワークショップ
-
-ワークショップ　よてい（アジェンダ）
-
-- 算数の計算（たし算、ひき算、かけ算、わり算）
-- 簡単（かんたん）な図形（三角形、四角形、円）
-- 変数（へんすう）
-- ファンクション（関数（かんすう））
-- 図形に色をつける
-- 星形（ほしがた）の図形
-- 雪の結晶（ゆきのけっしょう）の図形
+- 四則運算 (加、減、乘、除)
+- 簡單圖形的繪圖 (三角形、方形、圓形)
+- 符號
+- 函數
+- 圖形的著色
+- 星形
+- 雪的結晶形
 
 Workshop agenda
 
 - Learn mathematics (addition, multiplication, substraction and division).
 - Basic geometry shapes (triangle, square, circle).
-- Learn variables.
+- Learn symbols
 - Learn functions.
 - Learn to apply colors to shapes.
 - Star shape
 - Snowflake
-
 
 
