@@ -10,7 +10,7 @@
 - 星形
 - 雪的結晶形
 
-Workshop agenda
+# Workshop agenda
 
 - Learn mathematics (addition, multiplication, substraction and division).
 - Basic geometry shapes (triangle, square, circle).
@@ -20,4 +20,10 @@ Workshop agenda
 - Star shape
 - Snowflake
 
+# 課程內容截圖
+![image](https://github.com/humorless/JCConf4Kids-2019/blob/master/pictures/george.png)
+![image](https://github.com/humorless/JCConf4Kids-2019/blob/master/pictures/george2.png)
 
+# 課程實況截圖
+![image](https://github.com/humorless/JCConf4Kids-2019/blob/master/pictures/jcconf4kids-1.jpg)
+![image](https://github.com/humorless/JCConf4Kids-2019/blob/master/pictures/jcconf4kids-2.jpg)
