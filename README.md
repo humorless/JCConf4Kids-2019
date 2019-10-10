@@ -20,6 +20,10 @@
 - Star shape
 - Snowflake
 
+## 連絡方式
+
+如果您對這個課程有什麼興趣與反饋，可以透過 [Email](mailto:humorless@gmail.com) 與我們連絡。
+
 # 課程內容截圖
 ![image](https://github.com/humorless/JCConf4Kids-2019/blob/master/pictures/george.png)
 ![image](https://github.com/humorless/JCConf4Kids-2019/blob/master/pictures/george2.png)
